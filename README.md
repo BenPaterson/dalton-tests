@@ -1,7 +1,7 @@
 # dalton-tests
 Trying some things out, test test 
 
-COOL.  Ok, create a layout in the index.html file where we can work.  Lets say 960px wide, centered on the screen.  Make two containers, on top of each other, 540px height.  Pop a border and some padding between the containers. You should be able to google around and figure out all of this.  Use CSS styles for the layout/padding/border. 
+COOL.  Ok, create a layout in the index.html file where we can work.  Lets say 960px wide, centered on the screen.  Make two containers (<div></div> containers are fine for now), on top of each other, 540px height.  Pop a border and some padding between the containers. You should be able to google around and figure out all of this.  Use CSS styles for the layout/padding/border. 
 
 This is a good place to start for a boilerplate html template:
 
